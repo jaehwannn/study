@@ -1,20 +1,11 @@
 ---
 layout: page
-title: Hello World!
+title: Welcome my blog
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
+test test    
     author :
       name : Name Lastname
       email : blah@email.test
