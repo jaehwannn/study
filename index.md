@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Welcome to our JDH C School
+title: Welcome to our JDH C++ School
 ---
 {% include JB/setup %}
-    
-##  Let's learn about 'C Programming'
 
 ## Why I Created C++
 <iframe width="400" height="400" src="//www.youtube.com/embed/JBjjnqG0BP8" frameborder="0" allowfullscreen></iframe>
