@@ -6,10 +6,11 @@ title: Welcome to our JDH C School
     
 ##  Let's learn about 'C Programming'
 
-## This is video that learn to C++
-<iframe width="400" height="400" src="//www.youtube.com/embed/JBjjnqGOBP8" frameborder="0" allowfullscreen></iframe>
+## Why I Created C++
+<iframe width="400" height="400" src="//www.youtube.com/embed/JBjjnqG0BP8" frameborder="0" allowfullscreen></iframe>
 
-
+<br><br>
+<h1> C++ Parts</h1>
 <ul class="posts">
   {% for post in site.posts %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
