@@ -1,17 +1,10 @@
 ---
 layout: page
-title: Welcome my blog
-tagline: Supporting tagline
+title: Welcome to our JDH C School
 ---
 {% include JB/setup %}
-
-test test    
     
-## hello hello 
-    $ test test
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
+##  Let's learn about 'C Programming'
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -19,8 +12,6 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-## To-Do
 
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/dbtek/jekyll-bootstrap-3)!
 
 
